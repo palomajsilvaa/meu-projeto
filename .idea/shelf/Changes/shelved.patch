@@ -1,0 +1,143 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a91e6df8-e872-47b7-9f88-7eeecb23959e\" name=\"Changes\" comment=\"git\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;palomajsilvaa&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/palomajsilvaa/AULA1.git&quot;,\r\n    &quot;accountId&quot;: &quot;d5893835-8957-43ef-a157-57e6c8b0ee69&quot;\r\n  }\r\n}</component>\r\n  <component name=\"NextEditCompletionFeaturesState\">\r\n    <decayedCancelled>\r\n      <entry key=\"MS100\" value=\"1.8654735438566994E-62\" />\r\n      <entry key=\"MS500\" value=\"4.627957344402596E-13\" />\r\n      <entry key=\"S2\" value=\"0.0012928264632857428\" />\r\n      <entry key=\"S5\" value=\"0.1418773688612246\" />\r\n      <entry key=\"S10\" value=\"0.7442646723085392\" />\r\n      <entry key=\"S30\" value=\"2.9028241859197776\" />\r\n      <entry key=\"S60\" value=\"5.03829873229507\" />\r\n      <entry key=\"M2\" value=\"7.633923817516785\" />\r\n      <entry key=\"M5\" value=\"12.182893718970709\" />\r\n      <entry key=\"M10\" value=\"17.188154617969865\" />\r\n      <entry key=\"M15\" value=\"20.595799146590036\" />\r\n      <entry key=\"M30\" value=\"26.79692458894331\" />\r\n      <entry key=\"H1\" value=\"35.7866009950175\" />\r\n      <entry key=\"H2\" value=\"59.4148229925893\" />\r\n      <entry key=\"H4\" value=\"127.18603494152957\" />\r\n      <entry key=\"D1\" value=\"435.3070658893134\" />\r\n      <entry key=\"W1\" value=\"568.3697130353095\" />\r\n    </decayedCancelled>\r\n    <decayedSelected>\r\n      <entry key=\"MS100\" value=\"1.0\" />\r\n      <entry key=\"MS500\" value=\"1.0\" />\r\n      <entry key=\"S2\" value=\"1.0\" />\r\n      <entry key=\"S5\" value=\"1.0\" />\r\n      <entry key=\"S10\" value=\"1.0000000001252474\" />\r\n      <entry key=\"S30\" value=\"1.0005003297002948\" />\r\n      <entry key=\"S60\" value=\"1.0223730365573085\" />\r\n      <entry key=\"M2\" value=\"1.1525513211654261\" />\r\n      <entry key=\"M5\" value=\"1.6224743515911926\" />\r\n      <entry key=\"M10\" value=\"2.3846312761567354\" />\r\n      <entry key=\"M15\" value=\"3.0446984581685976\" />\r\n      <entry key=\"M30\" value=\"4.5355966373277585\" />\r\n      <entry key=\"H1\" value=\"7.584490148515888\" />\r\n      <entry key=\"H2\" value=\"15.853227824447302\" />\r\n      <entry key=\"H4\" value=\"33.90047920310089\" />\r\n      <entry key=\"D1\" value=\"96.01603170475124\" />\r\n      <entry key=\"W1\" value=\"120.23771980570739\" />\r\n    </decayedSelected>\r\n    <decayedShown>\r\n      <entry key=\"MS100\" value=\"6.405365737805806E-10\" />\r\n      <entry key=\"MS500\" value=\"0.014498023070161521\" />\r\n      <entry key=\"S2\" value=\"0.34810810749375454\" />\r\n      <entry key=\"S5\" value=\"0.7796577512757285\" />\r\n      <entry key=\"S10\" value=\"1.4927967192600693\" />\r\n      <entry key=\"S30\" value=\"3.7578195894057034\" />\r\n      <entry key=\"S60\" value=\"5.969960184989136\" />\r\n      <entry key=\"M2\" value=\"8.7309324082627\" />\r\n      <entry key=\"M5\" value=\"13.774747829834995\" />\r\n      <entry key=\"M10\" value=\"19.552080880372415\" />\r\n      <entry key=\"M15\" value=\"23.623902508625577\" />\r\n      <entry key=\"M30\" value=\"31.321198336843143\" />\r\n      <entry key=\"H1\" value=\"43.36242899802129\" />\r\n      <entry key=\"H2\" value=\"75.25954618649575\" />\r\n      <entry key=\"H4\" value=\"161.07710487138797\" />\r\n      <entry key=\"D1\" value=\"531.3181970420211\" />\r\n      <entry key=\"W1\" value=\"688.6065392729698\" />\r\n    </decayedShown>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3Jpz50xNaGqgIkYImjtA6W7jE2Y\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Agn.executor\": \"Run\",\r\n    \"Application.Arit01.executor\": \"Run\",\r\n    \"Application.Arit03.executor\": \"Run\",\r\n    \"Application.Arit04.executor\": \"Run\",\r\n    \"Application.Arit2.executor\": \"Run\",\r\n    \"Application.Aritmeticos.executor\": \"Run\",\r\n    \"Application.AritmeticosEx.executor\": \"Run\",\r\n    \"Application.Aritméticos.executor\": \"Run\",\r\n    \"Application.AtividadeArrays.executor\": \"Run\",\r\n    \"Application.AtividadeStrings.executor\": \"Run\",\r\n    \"Application.Aula02.executor\": \"Run\",\r\n    \"Application.Aula03.executor\": \"Run\",\r\n    \"Application.Aula07.executor\": \"Run\",\r\n    \"Application.Aula6.AtividadeArrays.executor\": \"Run\",\r\n    \"Application.Aula6.executor\": \"Run\",\r\n    \"Application.Caneca.executor\": \"Run\",\r\n    \"Application.Concatenação.executor\": \"Run\",\r\n    \"Application.Desafio5.executor\": \"Run\",\r\n    \"Application.DesafioAula2.executor\": \"Run\",\r\n    \"Application.EstruturasdeDecisão.executor\": \"Run\",\r\n    \"Application.Ex1.executor\": \"Run\",\r\n    \"Application.Inteiros.executor\": \"Run\",\r\n    \"Application.Nome.executor\": \"Run\",\r\n    \"Application.Questão1.executor\": \"Run\",\r\n    \"Application.Questão2.executor\": \"Run\",\r\n    \"Application.Revisao1.executor\": \"Run\",\r\n    \"Application.Revisao2.executor\": \"Run\",\r\n    \"Application.Revisao3.executor\": \"Run\",\r\n    \"Application.Revisão001.executor\": \"Run\",\r\n    \"Application.String.executor\": \"Run\",\r\n    \"Application.a3.executor\": \"Run\",\r\n    \"Application.teste.executor\": \"Run\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.jshint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.jshint\": \"\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/Palom/IdeaProjects/meu-projeto/src/main/java/org/example/Main.java\",\r\n    \"project.structure.last.edited\": \"Project\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.0\",\r\n    \"run.code.analysis.last.selected.profile\": \"pProject Default\",\r\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\",\r\n    \"to.speed.mode.migration.done\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Application.Questão2\">\r\n    <configuration name=\"AtividadeArrays\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"UNNAMED_CLASS_CONFIGURATION\" value=\"true\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"AtividadeArrays\" />\r\n      <module name=\"meu-projeto\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"AtividadeStrings\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Aula6.AtividadeStrings\" />\r\n      <module name=\"meu-projeto\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Aula6.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Aula6.AtividadeArrays\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Aula6.AtividadeArrays\" />\r\n      <module name=\"meu-projeto\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Aula6.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Questão1\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Aula7.Questão1\" />\r\n      <module name=\"meu-projeto\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Aula7.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Questão2\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Aula7.Questão2\" />\r\n      <module name=\"meu-projeto\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Aula7.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Questão2\" />\r\n        <item itemvalue=\"Application.Questão1\" />\r\n        <item itemvalue=\"Application.Aula6.AtividadeArrays\" />\r\n        <item itemvalue=\"Application.AtividadeArrays\" />\r\n        <item itemvalue=\"Application.AtividadeStrings\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a91e6df8-e872-47b7-9f88-7eeecb23959e\" name=\"Changes\" comment=\"\" />\r\n      <created>1790372611197</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1790372611197</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"git\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"git\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision be90d75b83ed6b08c9dd5e214b552c3a70fccef8)
++++ b/.idea/workspace.xml	(date 1790893427788)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a91e6df8-e872-47b7-9f88-7eeecb23959e" name="Changes" comment="git" />
++    <list default="true" id="a91e6df8-e872-47b7-9f88-7eeecb23959e" name="Changes" comment="git">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -34,61 +36,61 @@
+ }</component>
+   <component name="NextEditCompletionFeaturesState">
+     <decayedCancelled>
+-      <entry key="MS100" value="1.8654735438566994E-62" />
+-      <entry key="MS500" value="4.627957344402596E-13" />
+-      <entry key="S2" value="0.0012928264632857428" />
+-      <entry key="S5" value="0.1418773688612246" />
+-      <entry key="S10" value="0.7442646723085392" />
+-      <entry key="S30" value="2.9028241859197776" />
+-      <entry key="S60" value="5.03829873229507" />
+-      <entry key="M2" value="7.633923817516785" />
+-      <entry key="M5" value="12.182893718970709" />
+-      <entry key="M10" value="17.188154617969865" />
+-      <entry key="M15" value="20.595799146590036" />
+-      <entry key="M30" value="26.79692458894331" />
+-      <entry key="H1" value="35.7866009950175" />
+-      <entry key="H2" value="59.4148229925893" />
+-      <entry key="H4" value="127.18603494152957" />
+-      <entry key="D1" value="435.3070658893134" />
+-      <entry key="W1" value="568.3697130353095" />
++      <entry key="MS100" value="1.0000060275368643" />
++      <entry key="MS500" value="1.0903707684091477" />
++      <entry key="S2" value="1.5489798044279772" />
++      <entry key="S5" value="1.8969487641134108" />
++      <entry key="S10" value="2.5439427939858534" />
++      <entry key="S30" value="4.7456248314814715" />
++      <entry key="S60" value="6.9150644393283445" />
++      <entry key="M2" value="9.545215735713466" />
++      <entry key="M5" value="14.128473485186927" />
++      <entry key="M10" value="19.150547877367906" />
++      <entry key="M15" value="22.566011716570646" />
++      <entry key="M30" value="28.777740862495058" />
++      <entry key="H1" value="37.77390108303345" />
++      <entry key="H2" value="61.40438975583527" />
++      <entry key="H4" value="129.174962733724" />
++      <entry key="D1" value="437.3007834042722" />
++      <entry key="W1" value="570.3685417946932" />
+     </decayedCancelled>
+     <decayedSelected>
+-      <entry key="MS100" value="1.0" />
+-      <entry key="MS500" value="1.0" />
+-      <entry key="S2" value="1.0" />
+-      <entry key="S5" value="1.0" />
+-      <entry key="S10" value="1.0000000001252474" />
+-      <entry key="S30" value="1.0005003297002948" />
+-      <entry key="S60" value="1.0223730365573085" />
+-      <entry key="M2" value="1.1525513211654261" />
+-      <entry key="M5" value="1.6224743515911926" />
+-      <entry key="M10" value="2.3846312761567354" />
+-      <entry key="M15" value="3.0446984581685976" />
+-      <entry key="M30" value="4.5355966373277585" />
+-      <entry key="H1" value="7.584490148515888" />
+-      <entry key="H2" value="15.853227824447302" />
+-      <entry key="H4" value="33.90047920310089" />
+-      <entry key="D1" value="96.01603170475124" />
+-      <entry key="W1" value="120.23771980570739" />
++      <entry key="MS100" value="3.949222274175176E-6" />
++      <entry key="MS500" value="0.08304286338103198" />
++      <entry key="S2" value="0.5368161572640265" />
++      <entry key="S5" value="0.7797048426113233" />
++      <entry key="S10" value="0.883008970966114" />
++      <entry key="S30" value="0.9598549480415944" />
++      <entry key="S60" value="1.0013907446368886" />
++      <entry key="M2" value="1.140663030015919" />
++      <entry key="M5" value="1.6157593483103074" />
++      <entry key="M10" value="2.3796914725097627" />
++      <entry key="M15" value="3.0404922425410605" />
++      <entry key="M30" value="4.53246261746044" />
++      <entry key="H1" value="7.5818693190765245" />
++      <entry key="H2" value="15.85048853707991" />
++      <entry key="H4" value="33.89755023597594" />
++      <entry key="D1" value="96.0146490402995" />
++      <entry key="W1" value="120.23747245200435" />
+     </decayedSelected>
+     <decayedShown>
+-      <entry key="MS100" value="6.405365737805806E-10" />
+-      <entry key="MS500" value="0.014498023070161521" />
+-      <entry key="S2" value="0.34810810749375454" />
+-      <entry key="S5" value="0.7796577512757285" />
+-      <entry key="S10" value="1.4927967192600693" />
+-      <entry key="S30" value="3.7578195894057034" />
+-      <entry key="S60" value="5.969960184989136" />
+-      <entry key="M2" value="8.7309324082627" />
+-      <entry key="M5" value="13.774747829834995" />
+-      <entry key="M10" value="19.552080880372415" />
+-      <entry key="M15" value="23.623902508625577" />
+-      <entry key="M30" value="31.321198336843143" />
+-      <entry key="H1" value="43.36242899802129" />
+-      <entry key="H2" value="75.25954618649575" />
+-      <entry key="H4" value="161.07710487138797" />
+-      <entry key="D1" value="531.3181970420211" />
+-      <entry key="W1" value="688.6065392729698" />
++      <entry key="MS100" value="0.9201915998471518" />
++      <entry key="MS500" value="1.0677488947563907" />
++      <entry key="S2" value="1.7195359669357346" />
++      <entry key="S5" value="2.38594559656483" />
++      <entry key="S10" value="3.2003304348394557" />
++      <entry key="S30" value="5.564255682961214" />
++      <entry key="S60" value="7.826776185397316" />
++      <entry key="M2" value="10.63049085611581" />
++      <entry key="M5" value="15.7135712300499" />
++      <entry key="M10" value="21.509493037597327" />
++      <entry key="M15" value="25.589875630816564" />
++      <entry key="M30" value="33.29886031944808" />
++      <entry key="H1" value="45.3470971983201" />
++      <entry key="H2" value="77.24636810514968" />
++      <entry key="H4" value="163.06310099578758" />
++      <entry key="D1" value="533.3105313774596" />
++      <entry key="W1" value="690.6051205968254" />
+     </decayedShown>
+   </component>
+   <component name="ProjectColorInfo">{
+@@ -143,7 +145,7 @@
+     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+     "codeWithMe.voiceChat.enabledByDefault": "false",
+     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "main",
+     "junie.onboarding.icon.badge.shown": "true",
+     "kotlin-language-version-configured": "true",
+     "node.js.detected.package.eslint": "true",
