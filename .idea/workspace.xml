@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a91e6df8-e872-47b7-9f88-7eeecb23959e" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AtividadeEstruturasdeRepetição/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AtividadeEstruturasdeRepetição/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AtividadeEstruturasdeRepetição/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AtividadeEstruturasdeRepetição/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AtividadeScanner/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AtividadeScanner/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AtividadeScanner/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AtividadeScanner/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aula5/Aluna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aula5/DESAFIO7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aula5/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aula5/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aula5/Revisao6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aula8/Aula08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aula4/EstruturasdeDecisão.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aula4/EstruturasdeDecisão.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aula5/Desafio7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aula5/PRODUTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aula5/Revisão001.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a91e6df8-e872-47b7-9f88-7eeecb23959e" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
